@@ -24,7 +24,8 @@ import * as Yup from 'yup';
 /// Branching example
 
 // my name is priyaaa
-const a = 'abccc';
+const a = 'arerrererewe';
+const b = 'bca';
 type RootStackParamList = {
   MainInfoScreen: undefined;
 };
