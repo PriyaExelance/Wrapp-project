@@ -22,12 +22,13 @@ import {texts} from '../helper/strings';
 import * as Yup from 'yup';
 
 /// Branching example
+
+// my name is priyaaa
 const a = 'abccc';
 type RootStackParamList = {
   MainInfoScreen: undefined;
 };
 ///merging both
-
 // create a component
 const EmailScreen = () => {
   const [hidePass, setHidePass] = useState(true);
