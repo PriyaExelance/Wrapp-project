@@ -26,6 +26,8 @@ import * as Yup from 'yup';
 // my name is priyaaa
 const a = 'arerrererewe';
 const b = 'bca';
+
+const c = 'me and i';
 type RootStackParamList = {
   MainInfoScreen: undefined;
 };
