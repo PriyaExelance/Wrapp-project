@@ -26,6 +26,7 @@ const a = 'abccc';
 type RootStackParamList = {
   MainInfoScreen: undefined;
 };
+///merging both
 
 // create a component
 const EmailScreen = () => {
