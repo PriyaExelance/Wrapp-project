@@ -21,6 +21,8 @@ import {color} from '../helper/colors';
 import {texts} from '../helper/strings';
 import * as Yup from 'yup';
 
+/// Branching example
+const a = 'abccc';
 type RootStackParamList = {
   MainInfoScreen: undefined;
 };
